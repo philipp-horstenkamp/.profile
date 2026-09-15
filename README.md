@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Philipp Horstenkamp</h1>
-  <p><b>AI Developer & Team Lead Generative AI @ PSI Software[cite: 1] | Open-Source Contributor | Homelab & Systems Enthusiast</b></p>
+  <p><b>AI Developer & Team Lead Generative AI @ PSI Software | Open-Source Contributor | Homelab & Systems Enthusiast</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/philipp-horstenkamp-763165182/">
