@@ -78,11 +78,7 @@
 
 ---
 
-### 📂 Featured Open Source & Projects
-
-* 🎮 **[screeps-launcher](https://github.com/screepers/screeps-launcher)**  
-  *Standalone, cross-platform private server binary runner for the Screeps game engine written in Go.*  
-  `Go` `Automation` `CLI Tooling` `Game Engine`
+### 📂 Contributions in Featured Open Source & Projects
 
 * 🤖 **[Open WebUI](https://github.com/open-webui/open-webui)**  
   *Extensible, feature-rich web UI for running and orchestrating local/remote LLM pipelines.*  
@@ -96,10 +92,14 @@
   *Kernel Density Estimation in Python using NumPy and SciPy algorithms for high-speed scientific computation.*  
   `Machine Learning` `Statistics` `NumPy` `SciPy`
 
+* 🎮 **[screeps-launcher](https://github.com/screepers/screeps-launcher)**  
+  *Standalone, cross-platform private server binary runner for the Screeps game engine written in Go.*  
+  `Go` `Automation` `CLI Tooling` `Game Engine`
+
+
 * 🕹️ **[node-screeps-api](https://github.com/screepers/node-screeps-api)**  
   *Type-safe programmatic interface wrapper for Screeps private and official API servers.*  
   `TypeScript` `Node.js` `REST APIs` `WebSockets`
-
 ---
 
 ### 📊 GitHub Activity
