@@ -83,10 +83,6 @@
   *Extensible, feature-rich web UI for running and orchestrating local/remote LLM pipelines.*  
   `LLMs` `RAG` `Enterprise AI` `Docker`
 
-* 📦 **[cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)**  
-  *Cross-platform packaging scripts and standalone executable bundler for Python applications.*  
-  `Python` `Binary Packaging` `Compiler Tools` `DevOps`
-
 * 📐 **[KDEpy](https://github.com/tommyod/KDEpy)**  
   *Kernel Density Estimation in Python using NumPy and SciPy algorithms for high-speed scientific computation.*  
   `Machine Learning` `Statistics` `NumPy` `SciPy`
@@ -95,10 +91,6 @@
   *Standalone, cross-platform private server binary runner for the Screeps game engine written in Go.*  
   `Go` `Automation` `CLI Tooling` `Game Engine`
 
-
-* 🕹️ **[node-screeps-api](https://github.com/screepers/node-screeps-api)**  
-  *Type-safe programmatic interface wrapper for Screeps private and official API servers.*  
-  `TypeScript` `Node.js` `REST APIs` `WebSockets`
 ---
 
 ### 📊 GitHub Activity
