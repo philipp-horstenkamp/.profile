@@ -10,7 +10,6 @@
       <img src="https://img.shields.io/badge/Self--Hosted_Git-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
     </a>
     <img src="https://img.shields.io/badge/Location-Bochum%2C%20DE-informational?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bochum, DE" />
-    <img src="https://komarev.com/ghpvc/?username=philipp-horstenkamp&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   </p>
 
   <p>
